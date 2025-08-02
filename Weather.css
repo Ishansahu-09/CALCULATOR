@@ -1,5 +1,5 @@
 body{
-    background-color:#FDFFB8;
+    background-color:#dce6e8;;
 }
 
 
@@ -13,7 +13,8 @@ body{
 
     margin-left:350px;
     margin-top:80px;
-    background-color:#4DFFBE;
+    background-color:#c4dcfa;
+    border-radius:10%;
 
 
 
@@ -59,10 +60,12 @@ h1{
     height:80px;
     border-style:solid;
     border-color:black;
-    border-left-color:#63C8FF;
-    border-right-color:#63C8FF;
+    border-left-color:#c0f5f2;
+    border-right-color:#c0f5f2;
     font-size: 40px;
-    background-color: #63C8FF;
+    background-color:#c0f5f2; ;
+   
+    
 }
 
 .nuber{
@@ -72,4 +75,5 @@ h1{
     width:50px;
     justify-content:space-evenly;
     font-style:italic;
+
     font-size:25px;}
